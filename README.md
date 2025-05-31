@@ -35,7 +35,7 @@
 
 ## Installation
 
-1. Clone this repository or download the files.
+1. Clone this repository or download the exe.
 2. Install the required dependencies by running:
    ```bash
    pip install -r requirements.txt
